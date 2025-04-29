@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IIMB FEST 2024</title>
+  </head>
+  <body>
+    <header>
+      <h1>IIMB FEST 2024</h1>
+      <p>Welcome to the best fest in Bangalore. Hope you have a great time.</p>
+    </header>
+
+   
+   
+
+   
+      <h2>Instructions:</h2>
+      <ul>
+        <li>Only one guest is allowed</li>
+        <li>No entry after 6pm</li>
+        <li>Wear good clothes for DJ night</li>
+      </ul>
+      <h2>Directions to reach IIMB</h2>
+
+      <ol>
+         <li>
+           Arrive at majestic metro
+           <ul>
+             <li>Be careful of Pickpocketers</li>
+             <li>Metro station closes at 10pm</li>
+           </ul>
+         </li>
+         <li>Take metro at JP nagar</li>
+         <li>Rent a cab and go towards vega city mall</li>
+         <li>Take a right at vega city and you will find iimb 1km ahead</li>
+      </ol>     
+  
+      <p>
+        I’m a passionate media student with experience in writing, hosting
+        events, and design.
+      </p>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+      <ul>
+        <li>
+          Symbiosis Centre for Media & Communication - BBA in Media Management
+        </li>
+        <li>IIM Bangalore - BBA in Digital Marketing (Online)</li>
+      </ul>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Public Speaking</li>
+        <li>Event Management</li>
+        <li>Graphic Design & Video Editing</li>
+        <li>Writing & Poetry</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: siya@email.com</p>
+      <p>Phone: +91-9876543210</p>
+    </section>
+
+    <footer>
+      <p>© 2025 Siya</p>
+    </footer>
+  </body>
+</html>
